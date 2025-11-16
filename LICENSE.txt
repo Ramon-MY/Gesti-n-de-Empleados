@@ -1,0 +1,6 @@
+Permiso
+Copyright (c) 2025 Ramon M.
+
+Se le da permiso, totalmente gratis, a cualquier persona que consiga una copia de este software y de los archivos de documentación (en adelante, el "Software"), para usarlo sin ningún tipo de traba. Eso incluye, entre otras cosas: usarlo, copiarlo, modificarlo, juntarlo con otros proyectos, publicarlo, distribuirlo, darle sublicencias y/o vender copias del Software. También se permite que cualquier persona a quien tú le pases el Software pueda hacer lo mismo.
+Todo esto, siempre y cuando se cumplan las siguientes condiciones:
+
